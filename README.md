@@ -32,4 +32,5 @@ The plugin has no code of its own. It sends nothing anywhere except through the 
 
 - Documentation: https://conveo.ai/docs/api-reference/mcp
 - Privacy policy: https://conveo.ai/privacy-policy
+- Terms of service: https://conveo.ai/terms-of-service
 - Contact: support@conveo.ai
