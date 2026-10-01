@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "conveo": {
+      "type": "http",
+      "url": "https://app.conveo.ai/api/mcp"
+    }
+  }
+}
