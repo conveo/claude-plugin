@@ -18,5 +18,9 @@
     "insights",
     "user-research"
   ],
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://conveo.ai/docs/api-reference/mcp",
+  "privacyPolicyUrl": "https://conveo.ai/privacy-policy",
+  "termsOfServiceUrl": "https://conveo.ai/terms-of-service",
+  "supportUrl": "mailto:support@conveo.ai"
 }
