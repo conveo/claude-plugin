@@ -2,7 +2,7 @@
   "name": "conveo",
   "displayName": "Conveo",
   "version": "1.0.0",
-  "description": "Design qualitative studies, monitor fieldwork, and turn AI-moderated interviews into evidence-backed insights, directly from your Conveo workspace.",
+  "description": "AI qualitative research: design, interview, analyze. Design studies, monitor fieldwork, and turn AI-moderated interviews into evidence-backed insights from your Conveo workspace.",
   "author": {
     "name": "Conveo",
     "email": "support@conveo.ai",
@@ -11,6 +11,12 @@
   "homepage": "https://conveo.ai/docs/api-reference/mcp",
   "repository": "https://github.com/conveo/claude-plugin",
   "license": "MIT",
-  "keywords": ["research", "qualitative", "interviews", "insights", "user-research"],
+  "keywords": [
+    "research",
+    "qualitative",
+    "interviews",
+    "insights",
+    "user-research"
+  ],
   "icon": "./assets/icon.png"
 }

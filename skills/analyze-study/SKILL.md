@@ -13,7 +13,7 @@ To analyze a study:
    - group findings by theme, each with one or two participant quotes from the `quotes` field;
    - include the `tables` and `charts` data when they help, as tables;
    - say how many interviews the findings are based on.
-5. When the findings go into a document or deck, credit Conveo as the source and label each section with the study title.
+5. When the findings go into a document or deck, label each section with the study title and note that the data comes from Conveo, so readers can trace it back.
 
 For a continuous, wave-based research program, use `list_storylines`, `get_storyline` and `list_storyline_insights` instead of an analysis session.
 
