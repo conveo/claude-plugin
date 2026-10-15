@@ -11,4 +11,4 @@ To design a study in Conveo:
 4. Add 2 to 4 research objectives with `add_research_objective`. On section-based studies these are the analytical layer the insights are organized around, so phrase each as a question the study must answer.
 5. Read the study back with `get_study` and summarize the structure for the user: sections, question count, and objectives. Point them to the study editor in Conveo to review it before launch.
 
-Don't launch recruitment or change study settings unless the user asks. `chat_with_setup_assistant` edits the study in place and accepts every change it makes, so use it only on a draft the user has said you may change.
+Don't launch recruitment or change study settings unless the user asks.
